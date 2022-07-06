@@ -30,7 +30,7 @@ Example 2:
 Input: root = [1,2,2,3,3,null,null,4,4]
 Output: false
 ```
-
+ 
 Example 3:
 
 ```
